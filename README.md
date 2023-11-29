@@ -13,5 +13,5 @@ sudo apt update -y && sudo apt install wget -y
 - Install App
 
 ```
-wget https://raw.githubusercontent.com/ahmady2001/UserDetailServer/master/install.sh -O install.sh && sudo chmod +x install.sh && sudo bash install.sh
+wget https://raw.githubusercontent.com/amd1379/uds/master/install.sh -O install.sh && sudo chmod +x install.sh && sudo bash install.sh
 ```  
